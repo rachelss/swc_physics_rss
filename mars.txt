@@ -1,1 +1,2 @@
 This is the planet Mars
+This planet is red
