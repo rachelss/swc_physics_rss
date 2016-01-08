@@ -1,5 +1,6 @@
 This is the planet Mars
-This planet is red
+No planet is red
 No it's blue!!!
 
 No, you're both wrong.
+
